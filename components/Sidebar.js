@@ -3,7 +3,6 @@ import styled from 'styled-components';
 import Avatar from '@mui/material/Avatar';
 import { IconButton } from '@mui/material';
 import ChatIcon from '@mui/icons-material/Chat';
-import { BsThreeDotsVertical } from 'react-icons/bs'
 import { RiLoader3Fill } from 'react-icons/Ri';
 import CustomVerticalMore from './CustomVerticalMore';
 import SearchIcon from '@mui/icons-material/Search';
